@@ -13,8 +13,8 @@ const Header = () => {
       <nav>
         <span>Get the App</span>
         <div className="right">
-          <span>Investor Relations</span>
-          <span>Add restaurant</span>
+          <span>Investor Relationship</span>
+          <span>Add restaurants</span>
           <span>Log in</span>
           <span>Sign up</span>
         </div>

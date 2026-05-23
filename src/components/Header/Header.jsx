@@ -26,7 +26,7 @@ const Header = () => {
         <div className="sideMenu">
           <img src={blackLogo} alt="logo" />
           <div className="innerMenu">
-            <span>Investor Relations</span>
+            <span>Investor Relationship</span>
             <span>Add restaurants</span>
             <span>Log In</span>
             <span>Sign Up</span>
